@@ -13,7 +13,9 @@ body {
   padding: 0;
   color: $text-color;
   font-family: $global-font-family;
-  line-height: 1.5;
+  line-height: 1.666666;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -27,27 +29,27 @@ h3,
 h4,
 h5,
 h6 {
-  margin: 2em 0 0.5em;
-  line-height: 1.2;
+  margin-bottom: 10px;
+  line-height: 1.666;
   font-family: $header-font-family;
-  font-weight: bold;
+  font-weight: 600;
 }
 
 h1 {
   margin-top: 0;
-  font-size: $h-size-1;
+  font-size: $h-size-5;
 }
 
 h2 {
-  font-size: $h-size-2;
+  font-size: $h-size-5;
 }
 
 h3 {
-  font-size: $h-size-3;
+  font-size: $h-size-5;
 }
 
 h4 {
-  font-size: $h-size-4;
+  font-size: $h-size-5;
 }
 
 h5 {
@@ -66,7 +68,7 @@ small,
 p {
   margin-bottom: 1.3em;
 }
-
+x
 u,
 ins {
   text-decoration: none;
@@ -111,7 +113,7 @@ blockquote {
   padding-left: 1em;
   padding-right: 1em;
   font-style: italic;
-  border-left: 0.25em solid $primary-color;
+  border-left: 1px solid black;
 
   cite {
     font-style: italic;
@@ -126,16 +128,22 @@ blockquote {
 /* links */
 
 a {
+  
+  box-sizing: border-box;
+  border-color: $link-color;
+
   &:focus {
     @extend %tab-focus;
   }
 
   &:visited {
     color: $link-color-visited;
+    border-color: $link-color-visited;
   }
 
   &:hover {
     color: $link-color-hover;
+    border-color: $link-color-hover;
     outline: 0;
   }
 }
@@ -184,7 +192,7 @@ hr {
   display: block;
   margin: 1em 0;
   border: 0;
-  border-top: 1px solid $border-color;
+  border-top: 1px solid black;
 }
 
 /* lists */
@@ -223,6 +231,7 @@ figure {
 
   img {
     width: 100%;
+    
     border-radius: $border-radius;
     -webkit-transition: $global-transition;
     transition: $global-transition;
@@ -354,4 +363,12 @@ input[type="submit"],
 .archive__item-teaser {
   -webkit-transition: $global-transition;
   transition: $global-transition;
+}
+
+img {
+  border: 1px solid black;
+}
+
+header {
+  margin-bottom: 16px;
 }

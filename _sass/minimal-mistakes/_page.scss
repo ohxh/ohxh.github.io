@@ -10,7 +10,7 @@
   padding-right: 1em;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
-  max-width: 100%;
+  max-width: 600px;
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
 
@@ -32,18 +32,27 @@ body {
 
 .initial-content,
 .search-content {
+  padding-top: 40px;
   flex: 1 0 auto;
+}
+
+.date {
+  font-family: $monospace;
+  font-size: 16px;
+  color: grey;
 }
 
 .page {
   @include breakpoint($large) {
-    float: right;
+    float: left;
     width: calc(100% - #{$right-sidebar-width-narrow});
+    max-width: 800px;
     padding-right: $right-sidebar-width-narrow;
   }
 
   @include breakpoint($x-large) {
     width: calc(100% - #{$right-sidebar-width});
+    max-width: 900px;
     padding-right: $right-sidebar-width;
   }
 
@@ -108,7 +117,7 @@ body {
   p,
   li,
   dl {
-    font-size: 1em;
+    font-size: $type-size-5;
   }
 
   /* paragraph indents */
@@ -125,8 +134,11 @@ body {
   }
 
   a:not(.btn) {
+    text-decoration: none;
+  border-bottom: 1px  solid;
+
     &:hover {
-      text-decoration: underline;
+     
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
@@ -521,9 +533,9 @@ body {
 }
 
 .page__related-title {
+  font-weight: 400;
   margin-bottom: 10px;
-  font-size: $type-size-6;
-  text-transform: uppercase;
+  font-size: $type-size-5;
 }
 
 /*

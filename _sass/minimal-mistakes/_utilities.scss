@@ -515,13 +515,20 @@ body:hover .visually-hidden button {
    Footnotes
    ========================================================================== */
 
-.footnote {
-  color: mix(#fff, $gray, 25%);
+   .footnote {
+  color: grey;
+  border: none;
+  text-decoration: none;
+}
+
+.footnote:hover, .footnote:visited {
+  color: grey;
+  border: none;
   text-decoration: none;
 }
 
 .footnotes {
-  color: mix(#fff, $gray, 25%);
+  color: black;
 
   ol,
   li,
