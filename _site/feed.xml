@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-22T17:09:00-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ohxh.net</title><subtitle>An amazing website.</subtitle><author><name>Oliver Hopcroft</name></author><entry><title type="html">Edge Case2 boogalloo</title><link href="http://localhost:4000/edge%20case/writing-jekyll-posts/" rel="alternate" type="text/html" title="Edge Case2 boogalloo" /><published>2016-07-21T00:00:00-07:00</published><updated>2016-07-21T00:00:00-07:00</updated><id>http://localhost:4000/edge%20case/writing-jekyll-posts</id><content type="html" xml:base="http://localhost:4000/edge%20case/writing-jekyll-posts/">&lt;hr /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-24T00:47:43-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ohxh.net</title><subtitle>An amazing website.</subtitle><author><name>Oliver Hopcroft</name></author><entry><title type="html">Edge Case2 boogalloo</title><link href="http://localhost:4000/edge%20case/writing-jekyll-posts/" rel="alternate" type="text/html" title="Edge Case2 boogalloo" /><published>2016-07-21T00:00:00-07:00</published><updated>2016-07-21T00:00:00-07:00</updated><id>http://localhost:4000/edge%20case/writing-jekyll-posts</id><content type="html" xml:base="http://localhost:4000/edge%20case/writing-jekyll-posts/">&lt;hr /&gt;
 &lt;p&gt;&lt;strong&gt;Advertisement :)&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
@@ -287,96 +287,63 @@ with lazy continuation.&lt;/p&gt;
       &lt;p&gt;Footnote text. &lt;a href=&quot;#fnref:second&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:second:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Oliver Hopcroft</name></author><category term="content" /><category term="css" /><category term="edge case" /><category term="lists" /><category term="markup" /><summary type="html">Advertisement :)</summary></entry><entry><title type="html">Edge Case: Nested and Mixed Lists</title><link href="http://localhost:4000/edge%20case/writing-jekyll-posts-copy/" rel="alternate" type="text/html" title="Edge Case: Nested and Mixed Lists" /><published>2016-07-20T00:00:00-07:00</published><updated>2016-07-20T00:00:00-07:00</updated><id>http://localhost:4000/edge%20case/writing-jekyll-posts%20copy</id><content type="html" xml:base="http://localhost:4000/edge%20case/writing-jekyll-posts-copy/">&lt;p&gt;Nested and mixed lists are an interesting beast. It’s a corner case to make sure that
-This is why &lt;a href=&quot;http://reddit.com/&quot;&gt;hybrid products are born and why massive enterprises are shifting toward subscription models for office software. With the clearnet&lt;/a&gt;, using our own computers for everyday tasks that extend outside themselves is not easy. It’s way easier to sign into an enterprise’s server farm for your persistent data storage and manipulation. In 2020, the prefab parts for the exoskeleton only come in “left arm, right leg” pairs, or you can just give up and plug straight into SkyNet.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Oliver Hopcroft</name></author><category term="content" /><category term="css" /><category term="edge case" /><category term="lists" /><category term="markup" /><summary type="html">Advertisement :)</summary></entry><entry><title type="html">Edge Case: Nested and Mixed Lists</title><link href="http://localhost:4000/writing-jekyll-posts-copy/" rel="alternate" type="text/html" title="Edge Case: Nested and Mixed Lists" /><published>2016-07-20T00:00:00-07:00</published><updated>2016-07-20T00:00:00-07:00</updated><id>http://localhost:4000/writing-jekyll-posts%20copy</id><content type="html" xml:base="http://localhost:4000/writing-jekyll-posts-copy/">&lt;p&gt;Lorem markdownum signata avem nihil precari oculos tersis utque equorum; sit
+quam. Paterer alte congerie partes. Morti subsidit popularis dabat nec!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/7yll1Cp88NizW9046-MGhzF_BmHZyidqES29tsFgO4-o_HTRXV6ZhihzevEpN7dk-_o5cwOUk2Ga8eXcwrNmgmVuEjVZ8PHIktM0S_sV5SHvnouPsr0Onn5ElsFw4wcJfqZyvk1AJ20&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;latinus-umbras-nantis&quot;&gt;Latinus umbras nantis&lt;/h2&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Lists within lists do not break the ordered list numbering order&lt;/li&gt;
-  &lt;li&gt;Your list styles go deep enough.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;ordered--unordered--ordered&quot;&gt;Ordered – Unordered – Ordered&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;ordered item&lt;/li&gt;
-  &lt;li&gt;ordered item
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;unordered&lt;/strong&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;unordered&lt;/strong&gt;
-        &lt;ol&gt;
-          &lt;li&gt;ordered item&lt;/li&gt;
-          &lt;li&gt;ordered item&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;ordered item&lt;/li&gt;
-  &lt;li&gt;ordered item&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;ordered--unordered--unordered&quot;&gt;Ordered – Unordered – Unordered&lt;/h3&gt;
+&lt;p&gt;Simili &lt;em&gt;pascua&lt;/em&gt;, qua quae spolioque rogantis utque. Pallas de &lt;em&gt;enim&lt;/em&gt; carpsit
+dictaque fuerat ne &lt;strong&gt;fortuna&lt;/strong&gt; bene longa trepidum, scelus et invenit paulumque:
+metallis nocte. Facite solebant Phaethonta ut torum ne oris, &lt;strong&gt;amor ira&lt;/strong&gt;.
+Faciemque prodiga erravit simul motus traherent vertice! Aequaret se &lt;strong&gt;ullis
+formidine&lt;/strong&gt; velocius et remis cibos, non obscenas anxia.&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;ordered item&lt;/li&gt;
-  &lt;li&gt;ordered item
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;unordered&lt;/strong&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;unordered&lt;/strong&gt;
-        &lt;ul&gt;
-          &lt;li&gt;unordered item&lt;/li&gt;
-          &lt;li&gt;unordered item&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;ordered item&lt;/li&gt;
-  &lt;li&gt;ordered item&lt;/li&gt;
+  &lt;li&gt;Fletus fratribus in manu sit&lt;/li&gt;
+  &lt;li&gt;Cartheia Troica&lt;/li&gt;
+  &lt;li&gt;Traxit patent Deucalioneas vincere nomine ululatibus ordo&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id=&quot;unordered--ordered--unordered&quot;&gt;Unordered – Ordered – Unordered&lt;/h3&gt;
+&lt;h2 id=&quot;an-scilicet-nomen-vaticinos-virgineis&quot;&gt;An scilicet nomen vaticinos virgineis&lt;/h2&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;unordered item&lt;/li&gt;
-  &lt;li&gt;unordered item
-    &lt;ol&gt;
-      &lt;li&gt;ordered&lt;/li&gt;
-      &lt;li&gt;ordered
-        &lt;ul&gt;
-          &lt;li&gt;unordered item&lt;/li&gt;
-          &lt;li&gt;unordered item&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;unordered item&lt;/li&gt;
-  &lt;li&gt;unordered item&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Et a pedes per, adspicit orbe et ingenii gelida monstratum dedit ferus magno.
+Cladibus armentum, mea ambiguum sedit; additis sua, ignibus iterumque. Vultuque
+potes faventibus daulida cernentem et puta interea potiere &lt;em&gt;distinguunt ille&lt;/em&gt;:
+nec a positum, ab. Aetas deo fide divellite nec fluctus Hecate, temeraria
+figuris et &lt;em&gt;detulit fistula&lt;/em&gt;: aris sub tenuatus saetiger! Locuta attonitus
+animam curribus, nam ponit buxus: matris Erectheus malis sanguinis.&lt;/p&gt;
 
-&lt;h3 id=&quot;unordered--unordered--ordered&quot;&gt;Unordered – Unordered – Ordered&lt;/h3&gt;
+&lt;h2 id=&quot;nec-potes-avium&quot;&gt;Nec potes avium&lt;/h2&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;unordered item&lt;/li&gt;
-  &lt;li&gt;unordered item
-    &lt;ul&gt;
-      &lt;li&gt;unordered&lt;/li&gt;
-      &lt;li&gt;unordered
-        &lt;ol&gt;
-          &lt;li&gt;&lt;strong&gt;ordered item&lt;/strong&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;strong&gt;ordered item&lt;/strong&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;unordered item&lt;/li&gt;
-  &lt;li&gt;unordered item&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Heu perdet nec dolet ignes obtulit dedisset extis! &lt;a href=&quot;http://saturnia-ut.com/gaudent-relevare.html&quot;&gt;Tollit matutinaeque
+quid&lt;/a&gt; non, postquam arma. Sine
+arboris quoque cur favus non aureus bracchia iunonis &lt;a href=&quot;http://animamcaput.io/&quot;&gt;animos
+facientia&lt;/a&gt;. Dixit ruunt, permiscuit Cadmo, superata
+&lt;strong&gt;vos mihi custos&lt;/strong&gt; trepidare orbem et!&lt;/p&gt;
 
-&lt;h3 id=&quot;task-lists&quot;&gt;Task Lists&lt;/h3&gt;
+&lt;p&gt;Horrore plebe: me quaque splendidus haesit quiescere &lt;strong&gt;sua&lt;/strong&gt;. Ipsam exit tamen
+trepidans dixit, ora haec latet pictasque paulatim animoque recondiderat pudore.
+Habes quater viscera phocus quoque longo me, cum et est accepisse terrae
+Tyrrhenia. Cinyras &lt;a href=&quot;http://www.neque.org/veri&quot;&gt;sequitur&lt;/a&gt;, noceat hoc culpae
+inpulit, sol cape pectora in muneris, et velocior.&lt;/p&gt;
 
-&lt;ul class=&quot;task-list&quot;&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Finish my changes&lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Push my commits to GitHub&lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Open a pull request&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Oliver Hopcroft</name></author><category term="content" /><category term="css" /><category term="edge case" /><category term="lists" /><category term="markup" /><summary type="html">Nested and mixed lists are an interesting beast. It’s a corner case to make sure that This is why hybrid products are born and why massive enterprises are shifting toward subscription models for office software. With the clearnet, using our own computers for everyday tasks that extend outside themselves is not easy. It’s way easier to sign into an enterprise’s server farm for your persistent data storage and manipulation. In 2020, the prefab parts for the exoskeleton only come in “left arm, right leg” pairs, or you can just give up and plug straight into SkyNet.</summary></entry></feed>
+&lt;h2 id=&quot;qua-troia-et-ceae-comites-eurus&quot;&gt;Qua Troia et Ceae comites Eurus&lt;/h2&gt;
+
+&lt;p&gt;Quasque Pallene montibus Phrygum nivibus et tellus Broteasque &lt;a href=&quot;http://demptisest.org/pario&quot;&gt;in
+misero&lt;/a&gt; gratia terra nocturnos manibus solam.
+Delapsam fugato Hyacinthon caede murmura vestris convertunt tactuque vidit ac
+Minos socerum vel ipso credi. Nulla tu demit terras ineo conduntur gremio exire
+Iuppiter per demptos si talia tenebris, non. Et &lt;strong&gt;pectore angulus&lt;/strong&gt;. Repulsa
+sola, et tenet et si tamen, nam nunc lacrimis tota pomoque Clymene parvi.&lt;/p&gt;
+
+&lt;p&gt;Materiam Mnemosynen dixit: fretum instantes factisque comes, toto pactae
+pellibus gesserat sidera: instare testataque vinci. Et fuit laesa frater, &lt;strong&gt;aras
+captat si&lt;/strong&gt; cape sustineant vires truncus; vivacia &lt;em&gt;ubi vacuis&lt;/em&gt;, tu.&lt;/p&gt;
+
+&lt;p&gt;Arentis sceleratus unica recedere nec &lt;a href=&quot;http://quae.com/meiqueconsulit.aspx&quot;&gt;tactus
+ponti&lt;/a&gt;, nec ad linguae Proserpina Thoactes
+infelix. Pico dissilit num onusque ubi facies verbisque. Mihi sed ignis natura
+&lt;em&gt;a studiis&lt;/em&gt; fitque Eurypylusque esse regis arbor cuius &lt;strong&gt;feruntur in&lt;/strong&gt; ignibus,
+in. Pressa tristitiam manibus collesque invita; frena laeva forte deos aurea
+atque primumque postquam simulacraque &lt;strong&gt;quid&lt;/strong&gt;, porrigit deplorata nolet!
+Adsuerant remoratur queri sociis.&lt;/p&gt;</content><author><name>Oliver Hopcroft</name></author><summary type="html">Lorem markdownum signata avem nihil precari oculos tersis utque equorum; sit quam. Paterer alte congerie partes. Morti subsidit popularis dabat nec!</summary></entry></feed>

@@ -1,69 +1,64 @@
 ---
 title: "Edge Case: Nested and Mixed Lists"
-categories:
-  - Edge Case
-tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
+header:
+  teaser: /assets/avatar2.png
 ---
 
-Nested and mixed lists are an interesting beast. It's a corner case to make sure that
-This is why [hybrid products are born and why massive enterprises are shifting toward subscription models for office software. With the clearnet](http://reddit.com/), using our own computers for everyday tasks that extend outside themselves is not easy. It's way easier to sign into an enterprise's server farm for your persistent data storage and manipulation. In 2020, the prefab parts for the exoskeleton only come in "left arm, right leg" pairs, or you can just give up and plug straight into SkyNet.
+Lorem markdownum signata avem nihil precari oculos tersis utque equorum; sit
+quam. Paterer alte congerie partes. Morti subsidit popularis dabat nec!
 
-![Image](https://lh3.googleusercontent.com/proxy/7yll1Cp88NizW9046-MGhzF_BmHZyidqES29tsFgO4-o_HTRXV6ZhihzevEpN7dk-_o5cwOUk2Ga8eXcwrNmgmVuEjVZ8PHIktM0S_sV5SHvnouPsr0Onn5ElsFw4wcJfqZyvk1AJ20)
+## Latinus umbras nantis
 
-* Lists within lists do not break the ordered list numbering order
-* Your list styles go deep enough.
+Simili *pascua*, qua quae spolioque rogantis utque. Pallas de *enim* carpsit
+dictaque fuerat ne **fortuna** bene longa trepidum, scelus et invenit paulumque:
+metallis nocte. Facite solebant Phaethonta ut torum ne oris, **amor ira**.
+Faciemque prodiga erravit simul motus traherent vertice! Aequaret se **ullis
+formidine** velocius et remis cibos, non obscenas anxia.
 
-### Ordered -- Unordered -- Ordered
+1. Fletus fratribus in manu sit
+2. Cartheia Troica
+3. Traxit patent Deucalioneas vincere nomine ululatibus ordo
 
-1. ordered item
-2. ordered item 
-   * **unordered**
-   * **unordered** 
-     1. ordered item
-     2. ordered item
-3. ordered item
-4. ordered item
+## An scilicet nomen vaticinos virgineis
 
-### Ordered -- Unordered -- Unordered
+Et a pedes per, adspicit orbe et ingenii gelida monstratum dedit ferus magno.
+Cladibus armentum, mea ambiguum sedit; additis sua, ignibus iterumque. Vultuque
+potes faventibus daulida cernentem et puta interea potiere *distinguunt ille*:
+nec a positum, ab. Aetas deo fide divellite nec fluctus Hecate, temeraria
+figuris et *detulit fistula*: aris sub tenuatus saetiger! Locuta attonitus
+animam curribus, nam ponit buxus: matris Erectheus malis sanguinis.
 
-1. ordered item
-2. ordered item 
-   * **unordered**
-   * **unordered** 
-     * unordered item
-     * unordered item
-3. ordered item
-4. ordered item
+## Nec potes avium
 
-### Unordered -- Ordered -- Unordered
+Heu perdet nec dolet ignes obtulit dedisset extis! [Tollit matutinaeque
+quid](http://saturnia-ut.com/gaudent-relevare.html) non, postquam arma. Sine
+arboris quoque cur favus non aureus bracchia iunonis [animos
+facientia](http://animamcaput.io/). Dixit ruunt, permiscuit Cadmo, superata
+**vos mihi custos** trepidare orbem et!
 
-* unordered item
-* unordered item 
-  1. ordered
-  2. ordered 
-     * unordered item
-     * unordered item
-* unordered item
-* unordered item
+Horrore plebe: me quaque splendidus haesit quiescere **sua**. Ipsam exit tamen
+trepidans dixit, ora haec latet pictasque paulatim animoque recondiderat pudore.
+Habes quater viscera phocus quoque longo me, cum et est accepisse terrae
+Tyrrhenia. Cinyras [sequitur](http://www.neque.org/veri), noceat hoc culpae
+inpulit, sol cape pectora in muneris, et velocior.
 
-### Unordered -- Unordered -- Ordered
+## Qua Troia et Ceae comites Eurus
 
-* unordered item
-* unordered item 
-  * unordered
-  * unordered 
-    1. **ordered item**
-    2. **ordered item**
-* unordered item
-* unordered item
+Quasque Pallene montibus Phrygum nivibus et tellus Broteasque [in
+misero](http://demptisest.org/pario) gratia terra nocturnos manibus solam.
+Delapsam fugato Hyacinthon caede murmura vestris convertunt tactuque vidit ac
+Minos socerum vel ipso credi. Nulla tu demit terras ineo conduntur gremio exire
+Iuppiter per demptos si talia tenebris, non. Et **pectore angulus**. Repulsa
+sola, et tenet et si tamen, nam nunc lacrimis tota pomoque Clymene parvi.
 
-### Task Lists
+Materiam Mnemosynen dixit: fretum instantes factisque comes, toto pactae
+pellibus gesserat sidera: instare testataque vinci. Et fuit laesa frater, **aras
+captat si** cape sustineant vires truncus; vivacia *ubi vacuis*, tu.
 
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+Arentis sceleratus unica recedere nec [tactus
+ponti](http://quae.com/meiqueconsulit.aspx), nec ad linguae Proserpina Thoactes
+infelix. Pico dissilit num onusque ubi facies verbisque. Mihi sed ignis natura
+*a studiis* fitque Eurypylusque esse regis arbor cuius **feruntur in** ignibus,
+in. Pressa tristitiam manibus collesque invita; frena laeva forte deos aurea
+atque primumque postquam simulacraque **quid**, porrigit deplorata nolet!
+Adsuerant remoratur queri sociis.

@@ -5,6 +5,8 @@
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
 -->
+
+
 <html lang="en" class="no-js">
 
 <head>
@@ -102,6 +104,23 @@
 
 <!-- end custom head snippets -->
 
+  <style>
+    .easter-egg {
+      position: absolute;
+      visibility: hidden;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      border: none;
+      z-index: 99999;
+      /* Specify a stack order in case you're using a different order for other elements */
+      cursor: pointer;
+      /* Add a pointer on hover */
+    }
+  </style>
 </head>
 
 <body
@@ -161,8 +180,7 @@
 
 
 <div id="main" role="main">
-  
-<div class="sidebar" style="position:static">
+  <div class="sidebar" style="position:static">
 
   
 
@@ -174,116 +192,117 @@
     <a class="site-title" href="/">
       
       <div class="author__avatar">
-        
-        <img src="/assets/avatar2.png" alt="Oliver Hopcroft" itemprop="image">
-        
-      </div>
-      <br>
-      
+
+        <a href="/">
+          <img src="/assets/avatar2.png" alt="Oliver Hopcroft" itemprop="image">
+          <h3 class="site-title">
+            ohxh.net
+            <span style="font-weight: 400" itemprop="name">&nbsp; - &nbsp;Oliver Hopcroft</span>
+        </a> </h3>
     </a>
-    <h3>
-      <a class="site-title" href="/">
-        ohxh.net
-        <span style="font-weight: 400" itemprop="name">&nbsp; - &nbsp;Oliver Hopcroft</span>
-      </a> </h3>
+  </div>
+
+  
+  </a>
 
 
 
-    
-    <div class="author__bio" itemprop="description">
-      <p>Assorted ramblings and thoughts</p>
 
-    </div>
-    
+  
+  <div class="author__bio" itemprop="description">
+    <p>Assorted ramblings and thoughts</p>
+
   </div>
   
-  <button class="search__toggle" type="button">
-    <span>Search&nbsp;</span>
-    <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
-      <path
-        d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z"
-        transform="translate(-.01)"></path>
-    </svg>
-  </button>
-  <br>
-  <br>
-  
-  <div class="author__urls-wrapper">
+</div>
 
-    <ul class="author__urls social-icons">
-      
+<button class="search__toggle" type="button">
+  <span>Search&nbsp;</span>
+  <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
+    <path
+      d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z"
+      transform="translate(-.01)"></path>
+  </svg>
+</button>
+<br>
+<br>
 
-      
-      
-      
-      <li><a href="mailto:oliverhopcroft@gmail.com" rel="nofollow noopener noreferrer"><i aria-hidden="true"></i><span
-            class="label">oliverhopcroft@gmail.com</span></a></li>
-      
-      
-      
-      <li><a href="https://github.com/ohxh" rel="nofollow noopener noreferrer"><i aria-hidden="true"></i><span
-            class="label">github.com/ohxh</span></a></li>
-      
-      
-      
+<div class="author__urls-wrapper">
 
-      
+  <ul class="author__urls social-icons">
+    
 
-      
+    
+    
+    
+    <li><a href="mailto:oliverhopcroft@gmail.com" rel="nofollow noopener noreferrer"><i aria-hidden="true"></i><span
+          class="label">oliverhopcroft@gmail.com</span></a></li>
+    
+    
+    
+    <li><a href="https://github.com/ohxh" rel="nofollow noopener noreferrer"><i aria-hidden="true"></i><span
+          class="label">github.com/ohxh</span></a></li>
+    
+    
+    
 
-      
+    
 
-      
+    
 
-      
+    
 
-      
+    
 
-      
+    
 
-      
+    
 
-      
+    
 
-      
+    
 
-      
+    
 
-      
+    
 
-      
+    
 
-      
+    
 
-      
+    
 
-      
+    
 
-      
+    
 
-      
+    
 
-      
+    
 
-      
+    
 
-      
+    
 
-      
+    
 
-      
+    
 
-      
+    
 
-      <!--
+    
+
+    
+
+    <!--
   <li>
     <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
       <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
     </a>
   </li>
 -->
-    </ul>
-  </div>
+  </ul>
+</div>
 </div>
 
 
@@ -291,7 +310,6 @@
 
 
 </div>
-
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
     
@@ -635,17 +653,22 @@ with lazy continuation.</p>
 <div class="grid__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     
+    <div class="archive__item-teaser">
+      <img src="/assets/avatar2.png" alt="">
+    </div>
+    
     <h2 class="archive__item-title" itemprop="headline">
       
-      <a href="/edge%20case/writing-jekyll-posts-copy/" rel="permalink">Edge Case: Nested and Mixed Lists
+      <a href="/writing-jekyll-posts-copy/" rel="permalink">Edge Case: Nested and Mixed Lists
 </a>
       
     </h2>
     <span class="date">~2016.07.20</span>
     
     <p style="margin-top: 10px" class="archive__item-excerpt" itemprop="description">
-      Nested and mixed lists are an interesting beast. It’s a corner case to make sure that
-This is why hybrid products are born and why massive enterprises are sh...</p>
+      Lorem markdownum signata avem nihil precari oculos tersis utque equorum; sit
+quam. Paterer alte congerie partes. Morti subsidit popularis dabat nec!
+</p>
   </article>
 </div>
       
@@ -675,6 +698,10 @@ This is why hybrid products are born and why massive enterprises are sh...</p>
   </div>
   
 
+
+  <img class="easter-egg"
+    src="https://media1.giphy.com/media/4PZE13LfLfJ8EF5Zqw/giphy.gif?cid=ecf05e47bd5271627f792e46cf3e6a84ec122711b05625e5&rid=giphy.gif">
+  </img>
   <div id="footer" class="page__footer">
     <footer>
     </footer>

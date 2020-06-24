@@ -37,7 +37,7 @@
     width: 100%;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 4em;
+    padding-left: 1em;
     padding-right: 1em;
     -webkit-animation: $intro-transition;
     animation: $intro-transition;
@@ -46,6 +46,9 @@
 
     @include breakpoint($x-large) {
       max-width: $max-width;
+    }
+    @include breakpoint($large) {
+      padding-left: 4em;
     }
 
   }
@@ -126,4 +129,8 @@
   color: $primary-color;
   font-style: normal;
   font-weight: bold;
+}
+
+.is--visible {
+  visibility: visible !important;
 }

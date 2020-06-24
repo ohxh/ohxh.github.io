@@ -69,7 +69,16 @@
 a.site-title {
   color: #000;
   text-decoration: none;
+  @include breakpoint($large) {
+    display: block;
+  }
+}
 
+h3.site-title {
+  display: inline;
+  @include breakpoint($large) {
+    display: block;
+  }
 }
 
 .sidebar__right {
@@ -116,10 +125,9 @@ a.site-title {
    ========================================================================== */
 
 .author__avatar {
-  display: table-cell;
+  display: inline;
   vertical-align: top;
-  width: 36px;
-  height: 36px;
+  
 
   @include breakpoint($large) {
     display: block;
@@ -130,6 +138,14 @@ a.site-title {
   img {
     max-width: 110px;
     border: none;
+    width: 36px;
+  height: 36px;
+  padding-right: 8px;
+  @include breakpoint($large) {
+    padding-right: 0;
+    width: auto;
+    height: auto;
+  }
   }
 }
 
