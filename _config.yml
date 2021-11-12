@@ -99,7 +99,7 @@ collections:
 author:
   name             : "Oliver Hopcroft"
   avatar           : "/assets/avatar2.png"
-  bio              : "Assorted ramblings and thoughts"
+  bio              : "cs @ Cornell ('23)"
   location         : false
   email            : false
   links:
@@ -107,6 +107,8 @@ author:
       url: "mailto:oliverhopcroft@gmail.com"
     - label: "github.com/ohxh"
       url: "https://github.com/ohxh"
+    - label: "twitter.com/oliverhopcroft"
+      url: "https://twitter.com/oliverhopcroft"
   
 
 # Site Footer
