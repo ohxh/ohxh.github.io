@@ -32,9 +32,9 @@ body {
 
 .initial-content,
 .search-content {
-  padding-top: 40px;
+  padding-top: 16px;
   @include breakpoint($medium) {
-    padding-top: 16px;
+    padding-top: 40px;
   }
   flex: 1 0 auto;
 }
